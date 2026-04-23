@@ -57,55 +57,38 @@ function HomeTab() {
 const ABOUT_SECTIONS = [
   {
     label: "Introduction",
-    image: "/still3.jpg",
-    imageCaption: "The frozen world outside — and the train that inherited it.",
+    image: "/image1.png",
+    imageCaption: "",
     body: [
-      "This project is based on a fundamental idea: science fiction is not an imaginative exercise about the future, but rather a critical analysis of the present. Even though this exhibition started out as another assignment, our team decided to transcend the academic prompt and build a tool for learning about sociology, politics, and history. The purpose of our website is to dismantle the — at first glance — invisible power structures in Snowpiercer and demonstrate how they relate to the concepts of systemic marginalization and oppression.",
-      "We decided to title this exhibit \u201cThe Architecture of Control\u201d because we believe that inequality is not something that just happens; it\u2019s a deliberate design. By curating multimodal media, ranging from visual records from the movie to simulated interactions, we want the user to go from being a passive observer to a critic of their own reality.",
+      "Science fiction is not an imaginative exercise about the future, but rather a critical analysis of the present. This exhibit aims to dismantle the invisible power structures in Snowpiercer for movie analysis lovers, people concerned with inequality issues, and students interested in sociological discussions. We demonstrate how the power structures are related to the concepts of systemic marginalization and oppression.",
+      "We intend to communicate that inequality is not something that just happens; it's a deliberate design. By curating multimodal media, ranging from visual records from the movie to simulated interactions, we want to let the audience take a peek into the life of Snowpiercer from both first-person and third-person POVs.",
     ],
   },
   {
     label: "Stance",
-    image: "/still1.jpg",
-    imageCaption: "Tail section passengers — packed, controlled, and surveilled.",
+    image: "/image2.png",
+    imageCaption: "",
     body: [
-      "We argue that Snowpiercer critiques the political hegemony that is infused in education and explored the relativity between devastation and the construction of civilization.",
-      "Our stance holds the argument that Snowpiercer is an experiment of sociopolitical domination. The sacred engine is not just a machine; it\u2019s the center of a sort of religion designed to have the marginalized accept their reality of being exploited as a necessary sacrifice for the common good.",
-      "The main goal of our exhibition is to expose how obedience can be manufactured. Through the analysis of the train in Snowpiercer, we are able to demonstrate that marginalization in the real world, whether it\u2019s related to class, color, geographical location, or something else, is sustained by the same strategies used by Wilford: the control of a space and the use of fear and emotional manipulation, especially with new generations.",
+      "We argue that Snowpiercer critiques the political hegemony that is infused in education and explores the relativity between devastation and the construction of civilization.",
+      "Our stance holds the argument that Snowpiercer is an experiment of sociopolitical domination. The sacred engine is not just a machine; it's the center of a sort of religion designed to have the marginalized accept their reality of being exploited as a necessary sacrifice for the common good.",
+      "The main goal of our exhibition is to expose how obedience can be manufactured and how that is sustained in reality as well by the same strategies used by Wilford in the movie: the control of a space and the use of fear and emotional manipulation, especially with new generations. Additionally, we intend to shed light on Bong Joon Ho's exploration of the relativity between destructions and constructions — to what extent the destruction needs to reach in order for reconstruction to take place.",
     ],
   },
   {
-    label: "Interactive Dynamic",
-    image: "/still2.jpg",
-    imageCaption: "Curtis Everett — the tail's rebellion made flesh.",
+    label: "Population and Resource Management",
+    image: "/image3.png",
+    imageCaption: "",
     body: [
-      "To make sure the user gets to experience this architecture of control, we designed our website to be an immersive experience based on the classroom train wagon. In this section, the user has to interact with the children in the classroom and listen to their stories to better understand their experience with indoctrination and the extreme idealization of Wilford, as well as how the passengers in the back of the train are perceived.",
-      "However, to break this propaganda cycle, we have introduced the character of Curtis Everett. After every interaction with the children, Curtis acts as a critical lens: he decodes the system\u2019s lies and connects them to real-world issues. For example, when one of the children talks about the tail section as this dangerous place, Curtis explains how in real life poverty is criminalized to justify police brutality.",
-      "The website experience ends in a direct challenge: the user has to be quizzed by the teacher. This quiz represents the pressure of the system to settle. Only after passing this ideological assimilation test, the door taking you to the next train wagon opens, allowing you to access the About page with this full critical analysis. By gamifying the website, we are able to support our stance by showcasing the idea that sometimes we have to \u201cplay the system\u201d before understanding it and eventually dismantling it from the inside.",
+      "The underlying philosophy of this space draws from Foucault's biopolitics: modern power doesn't just repress, it manages populations. In Snowpiercer, the management of life is absolute: Wilford decides who eats, who procreates, and who is sacrificed to make sure the ecosystem that exists in the train doesn't collapse. An exact number of population as precise as \"74%\" dictates the life-death of tail section (lower class) people.",
+      "Meanwhile, resources are segregated between carriages as the rebels from the tail section could only use fire against front-section soldiers armed with night vision and other high-tech equipment.",
     ],
   },
   {
-    label: "Theoretical Framework",
-    image: "/still7.jpg",
-    imageCaption: "Minister Mason — the system's enforcer, now captive.",
+    label: "Political Hegemony and Education",
     body: [
-      "The underlying philosophy of this space draws from Foucault\u2019s biopolitics: modern power doesn\u2019t just repress, it manages populations. In Snowpiercer, the management of life is absolute: Wilford decides who eats, who procreates, and who is sacrificed to make sure the ecosystem that exists in the train doesn\u2019t collapse.",
-      "Our exhibit assimilates these ideas to show that the classroom is not a learning space but rather a disciplinary institution. Obedient citizens are made there through repeated \u201crituals.\u201d By connecting this to real life, we invite the audience to reflect on how our own educational institutions can, in some cases, act as training centers for the job market instead of safe spaces for free thinking.",
-    ],
-  },
-  {
-    label: "Design Strategy and Target Audience",
-    image: "/still9.jpg",
-    imageCaption: "The art car — color and spectacle as instruments of control.",
-    body: [
-      "This exhibit is made with a public interested in the intersection of cinema, sociology, and social justice in mind. We used a multimodal strategy based highly on visual contrast: bright lights and saturated colors in the classroom contrasted by the darkness and dirty appearance of Curtis. The goal of this is to showcase the duality between the comfort that comes with indoctrination and the harshness of reality and the truth.",
-      "By integrating Curtis as the narrator, we are able to connect fiction to reality, and we give our exhibit an alarming tone. We are not analyzing a movie from 2013 because of nostalgia; we are analyzing how the dividing wagons in the train in Snowpiercer are the same walls that divide our society today.",
-    ],
-  },
-  {
-    label: "Conclusion",
-    body: [
-      "Making it to this About page means that the user has symbolically gone past the barrier that is propaganda. The purpose we had by presenting this architecture of control is, maybe paradoxically, to show how to destroy it. At the end of the day, the message that our exhibit, and similarly Curtis in the movie, tries to broadcast is that this societal order is actually very fragile: Once people understand that systemic inequality is carefully designed, they can also understand that it can therefore be redesigned or if necessary, completely abolished and rebuilt.",
+      "The most critical side of Snowpiercer's depiction of manufactured inequality our exhibit intended to convey is how the classroom is not a learning space but a disciplinary institution. Obedient citizens are made there through repeated \"rituals\" in the name of school and education. The classroom and lectures in Snowpiercer served as an epitome of schools in reality where ideologies were taught and consolidated through means like impartations and social interactions.",
+      "According to Michel Foucault, political hegemony thus has the chance to be instilled upon children through education as it is an effective means by which ideas and ideologies were established and practiced. And since ideologies constitute hegemony, inequality control and the ideological justifications behind it were validated and maintained through the educational system.",
+      "By connecting this to real life, we invite the audience to reflect on how our own educational institutions can, in some cases, act as hegemonizing places for the sustaining of pre-established orders and values instead of safe spaces for free thinking.",
     ],
   },
 ];
@@ -161,25 +144,25 @@ const AUTHORS = [
   {
     name: "Edson Petrini",
     major: "Computer Engineering",
-    bio: "Placeholder bio",
+    bio: "",
     photo: null,
   },
   {
     name: "Gloria Purcell",
     major: "Civil Engineering",
-    bio: "Placeholder bio",
+    bio: "",
     photo: null,
   },
   {
     name: "Lucy Yang",
     major: "Biochemistry",
-    bio: "Placeholder bio",
+    bio: "",
     photo: null,
   },
   {
     name: "Hersh Pamnani",
     major: "Mechanical Engineering",
-    bio: "Placeholder bio",
+    bio: "",
     photo: null,
   },
 ];
@@ -204,7 +187,7 @@ function AuthorCard({ author }: { author: typeof AUTHORS[number] }) {
         <p className="text-xs text-amber-400 uppercase tracking-widest font-mono">
           {author.major}
         </p>
-        <p className="text-zinc-400 text-sm leading-relaxed mt-1">{author.bio}</p>
+        {author.bio && <p className="text-zinc-400 text-sm leading-relaxed mt-1">{author.bio}</p>}
       </div>
     </div>
   );
@@ -237,63 +220,11 @@ const SOURCES = [
     type: "Film — Primary Source",
     citation: (
       <>
-        Bong, Joon-ho, director. <em>Parasite</em>. CJ Entertainment, 2019.
+        <em>Snowpiercer</em>. Directed by Joon Ho Bong, The Weinstein Company,
+        2013.
       </>
     ),
-    annotation:
-      "Directed by Bong Joon-ho, Parasite tells the story of the struggling Kim family as they gradually embed themselves in the lives of the wealthy Park family. The film highlights sharp contrasts in lifestyle and opportunity, showing how deeply class inequality shapes everyday experience. Its cinematography and careful use of space (especially the difference between the semi-basement apartment and the modern mansion) act as visual metaphors for social hierarchy.",
-  },
-  {
-    type: "Journal Article — Secondary Source",
-    citation: (
-      <>
-        Kim, Kyung-Hyun. "Socioeconomic Divides in Bong Joon-ho's Parasite:
-        Verticality and Urban Space." <em>Journal of Korean Cinema Studies</em>,
-        vol. 15, no. 2, 2020, pp. 45–62.
-      </>
-    ),
-    annotation:
-      "Kim examines how Parasite uses verticality and architectural design to convey class differences. The article explains the symbolism of stairs and floor levels. This source will support analysis of cinematography and spatial metaphors in the video essay.",
-  },
-  {
-    type: "Online Article — Secondary Source",
-    citation: (
-      <>
-        Paiella, Gabriella. "Parasite Director Bong Joon-ho on the Art of Class
-        Warfare." <em>GQ</em>, 8 October 2019,{" "}
-        <a
-          href="https://www.gq.com/story/parasite-director-bong-joon-ho-interview"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="underline underline-offset-2 text-zinc-300 hover:text-white"
-        >
-          https://www.gq.com/story/parasite-director-bong-joon-ho-interview
-        </a>
-        .
-      </>
-    ),
-    annotation:
-      "In this interview, Bong Joon-ho discusses his intentions behind Parasite, particularly the film's portrayal of class conflict as a form of \"class warfare.\" He reflects on the universality of economic inequality and explains how specific cinematic choices reinforce the film's themes. This source provides valuable insight into the director's perspective, helping contextualize the film's social commentary and supporting analysis with authorial intent.",
-  },
-  {
-    type: "YouTube Video — Secondary Source",
-    citation: (
-      <>
-        Sinjun Chapman. "Crossing the Line: Analyzing How Parasite Frames
-        Class." <em>YouTube</em>, 11 December 2024,{" "}
-        <a
-          href="https://www.youtube.com/watch?v=LmrsDjm9mCQ"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="underline underline-offset-2 text-zinc-300 hover:text-white"
-        >
-          https://www.youtube.com/watch?v=LmrsDjm9mCQ
-        </a>
-        .
-      </>
-    ),
-    annotation:
-      "This video essay explores how spatial design and cinematography communicate social hierarchy. It provides visual examples and scene breakdowns suitable for inclusion as clips or references in the essay.",
+    annotation: "",
   },
 ];
 
@@ -315,9 +246,11 @@ function WorksCitedTab() {
           <p className="text-zinc-200 text-sm leading-relaxed pl-6 -indent-6">
             {source.citation}
           </p>
-          <p className="text-zinc-500 text-sm leading-relaxed italic border-l border-zinc-700 pl-4">
-            {source.annotation}
-          </p>
+          {source.annotation && (
+            <p className="text-zinc-500 text-sm leading-relaxed italic border-l border-zinc-700 pl-4">
+              {source.annotation}
+            </p>
+          )}
         </div>
       ))}
     </div>
