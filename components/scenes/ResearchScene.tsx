@@ -220,11 +220,63 @@ const SOURCES = [
     type: "Film — Primary Source",
     citation: (
       <>
-        <em>Snowpiercer</em>. Directed by Joon Ho Bong, The Weinstein Company,
-        2013.
+        Bong, Joon-ho, director. <em>Parasite</em>. CJ Entertainment, 2019.
       </>
     ),
-    annotation: "",
+    annotation:
+      "Directed by Bong Joon-ho, Parasite tells the story of the struggling Kim family as they gradually embed themselves in the lives of the wealthy Park family. The film highlights sharp contrasts in lifestyle and opportunity, showing how deeply class inequality shapes everyday experience. Its cinematography and careful use of space (especially the difference between the semi-basement apartment and the modern mansion) act as visual metaphors for social hierarchy.",
+  },
+  {
+    type: "Journal Article — Secondary Source",
+    citation: (
+      <>
+        Kim, Kyung-Hyun. "Socioeconomic Divides in Bong Joon-ho's Parasite:
+        Verticality and Urban Space." <em>Journal of Korean Cinema Studies</em>,
+        vol. 15, no. 2, 2020, pp. 45–62.
+      </>
+    ),
+    annotation:
+      "Kim examines how Parasite uses verticality and architectural design to convey class differences. The article explains the symbolism of stairs and floor levels. This source will support analysis of cinematography and spatial metaphors in the video essay.",
+  },
+  {
+    type: "Online Article — Secondary Source",
+    citation: (
+      <>
+        Paiella, Gabriella. "Parasite Director Bong Joon-ho on the Art of Class
+        Warfare." <em>GQ</em>, 8 October 2019,{" "}
+        <a
+          href="https://www.gq.com/story/parasite-director-bong-joon-ho-interview"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-2 text-zinc-300 hover:text-white"
+        >
+          https://www.gq.com/story/parasite-director-bong-joon-ho-interview
+        </a>
+        .
+      </>
+    ),
+    annotation:
+      "In this interview, Bong Joon-ho discusses his intentions behind Parasite, particularly the film's portrayal of class conflict as a form of \"class warfare.\" He reflects on the universality of economic inequality and explains how specific cinematic choices reinforce the film's themes. This source provides valuable insight into the director's perspective, helping contextualize the film's social commentary and supporting analysis with authorial intent.",
+  },
+  {
+    type: "YouTube Video — Secondary Source",
+    citation: (
+      <>
+        Sinjun Chapman. "Crossing the Line: Analyzing How Parasite Frames
+        Class." <em>YouTube</em>, 11 December 2024,{" "}
+        <a
+          href="https://www.youtube.com/watch?v=LmrsDjm9mCQ"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-2 text-zinc-300 hover:text-white"
+        >
+          https://www.youtube.com/watch?v=LmrsDjm9mCQ
+        </a>
+        .
+      </>
+    ),
+    annotation:
+      "This video essay explores how spatial design and cinematography communicate social hierarchy. It provides visual examples and scene breakdowns suitable for inclusion as clips or references in the essay.",
   },
 ];
 
